@@ -1,20 +1,21 @@
-# Titanic Survival Prediction
+# CODSOFT Data Science Internship
 
-This project is part of my Data Science Internship at CODSOFT.
+This repository contains the tasks completed during my Data Science Internship at CODSOFT.
 
-## Objective
-Predict whether a passenger survived the Titanic disaster using Machine Learning.
+## Task 1: Titanic Survival Prediction
+Built a machine learning model to predict whether a passenger survived the Titanic disaster based on passenger information.
+
+## Task 3: Iris Flower Classification
+Built a machine learning model to classify Iris flowers into different species using sepal and petal measurements.
 
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
+- Machine Learning
 
-## Model
-Random Forest Classifier
+## Author
+Venkata Lakshmi
 
-## Outcome
-Built a classification model and evaluated its accuracy on test data.
-
-#codsoft
+#codsoft #datascience #machinelearning
